@@ -25,3 +25,7 @@ Hello everyone! I'm Princess Wacky Dandywhip (Wacky for short) and this is my fi
 ![The edited Sellbot Suit design.](s_blazer.jpg)
 
 *Sellbots are Team Rocket! Note: needs to be recreated/adjusted to use Project Bikehorn*
+
+![A screenshot of the edited Toon HQ banner.](HQ-Banner.png)
+
+*Toon HQs will be Pokémon Centers - though in hindsight I could have made them Gyms. May change!*
