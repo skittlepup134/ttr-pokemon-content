@@ -9,6 +9,7 @@ Hello everyone! I'm Princess Wacky Dandywhip (Wacky for short) and this is my fi
 ### Current priorities
 - Finish Cog suits
 - Finish identifying where everything is in the phase files
+- ~~stop jumping around and pick a section to focus on~~
 
 ### Sneak peaks
 ![A screenshot of the edited Friends List.](FriendsList_Preview.png)
